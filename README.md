@@ -2,6 +2,8 @@
 
 This is another line.
 
+Here is a line from GitHub online.
+
 ## Project organization
 - PG = project-generated
 - HW = human-writable
