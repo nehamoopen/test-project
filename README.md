@@ -1,4 +1,4 @@
-# [PROJECT NAME]
+# HELLO
 
 ## Project organization
 - PG = project-generated
