@@ -9,6 +9,10 @@ Here is a line from GitHub online. Here you need to install `tidyverse`. This is
 - HW = human-writable
 - RO = read only
 
+## Notes
+
+For additional notes, please refer to the [`notes.md`](/notes.md) within this repo.
+
 ```
 .
 ├── .gitignore
