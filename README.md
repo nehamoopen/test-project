@@ -2,12 +2,13 @@
 
 This is another line.
 
-Here is a line from GitHub online.
+Here is a line from GitHub online. Here you need to install `tidyverse`. This is from the course on [Reproducible Coding](https://utrechtuniversity.github.io/workshop-computational-reproducibility/docs/7.2-the-readme-page.html)
 
 ## Project organization
 - PG = project-generated
 - HW = human-writable
 - RO = read only
+
 ```
 .
 ├── .gitignore
